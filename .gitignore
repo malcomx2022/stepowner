@@ -1,0 +1,43 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.pub-cache/
+build/
+coverage/
+.idea/
+.vscode/
+*.iml
+
+# Mac
+.DS_Store
+
+# Android
+android/.gradle
+android/captures/
+android/app/build/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks
+ios/Pods/
+ios/Runner.xcworkspace
+ios/build/
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Windows
+windows/Runner/GeneratedPluginRegistrant.*
+windows/build/
+
+# Linux
+linux/build/
+
+# Others
+*.lock
+*.log
